@@ -1,11 +1,11 @@
 # Vppelli OnlineTemplate Project
 Developed with Unreal Engine 5.5
 ## Project Settings
-This is a list of Project Settings changed, can be reverted based on project.
-- RayTracing Off (including all other raytrace options)
+This list of Project Settings changed and can be reverted based on the project.
+- RayTracing Off (including all other ray trace options)
 - DX11 for RHI
 - SM5 for Shader settings
-- Shadom Map Method to Shadow Maps
+- Shadow Map Method to Shadow Maps
 - Project Description
 - Project Images
 - Level Startup
@@ -18,14 +18,14 @@ This is a list of Project Settings changed, can be reverted based on project.
 - A C++ Character Actor with Gameplay Ability System.
 - A Master UI Widget Blueprint that handles controller and keyboard navigation. (Setup details #How-to-use-template )
 + Child Button BP
-- A Base Folder Structure, with one of each example's nameing convention.
+- A Base Folder Structure, with one of each example's naming convention.
 
 ## Plugins
 - Gameplay Ability System
 - Gameplay Tags
 
-# How to use template
-Follow my setup and Project overview video to understand everything for this blueprint.
+# How to use the template
+You can follow my setup and project overview video to understand everything for this blueprint.
 
 # Important
 Download "VS 2022" Visual Studio 2022 Community, or VS Code.
@@ -38,16 +38,16 @@ Right click the **.uproject** Click **Generate Visual Studio Project**.
 Windows 11: 
 Same as Windows 10 but click **Show more options** first.
 
-Wait till all files generate.
-Open the new generated **.sln** file. Let it open up fully and process the code, you can view its progress at the bottom left Notification button. (Looks like a speach box)
+Wait till all files are generated.
+Open the newly generated **.sln** file. Let it open up fully and process the code, you can view its progress at the bottom left Notification button. (Looks like a speech box)
 
-Once that is completed. Go to the build tab on the top of VS 2022, Select Rebuild Solution. Wait till its completed. 
+Once it's complete go to the build tab on the top of VS 2022, and select Rebuild Solution. Wait till it's completed. 
 
-Now you are done, open the project and begin your adventure.
+Now you're done, open the project and begin your adventure.
 
-> Will only need to do this once!! unless you wirte new C++ code, but at that point you understand the basics.
+> Will only need to do this once!! unless you write new C++ code, but at that point you understand the basics.
 
-Everything else is untoched, and hopefully this template will be your base for future projects.
+Everything else is untouched, and hopefully, this template will be your base for future projects.
 
-This was made with orginization in mind, using the correct Blueprints from the start, naming convention. For both Online and Offline Projects.
+This was made with organization in mind, using the correct Blueprints from the start, and naming convention for both Online and Offline Projects.
 
